@@ -29,7 +29,6 @@ ipykernel==6.15.1
 ipython==8.4.0
 ipython-genutils==0.2.0
 ipywidgets==7.7.1
-language-selector==0.1
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
 lazr.uri==1.0.6
