@@ -15,3 +15,4 @@ dj-database-url
 psycopg2
 pytz
 whitenoise
+django-heroku
