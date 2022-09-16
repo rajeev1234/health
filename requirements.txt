@@ -17,3 +17,11 @@ scikit-learn==1.1.2
 six==1.16.0
 sklearn
 django-heroku
+dj-database-url
+dj-static
+Unipath
+python-decouple
+Markdown
+bleach
+psycopg2
+whitenoise
