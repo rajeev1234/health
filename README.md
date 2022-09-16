@@ -37,13 +37,6 @@
     <li> Bootstrap </li>
   </ol>
 
-## Contributors:
-
-Team Name: 3 Stree
-
-* [Surbhi Mayank](https://github.com/surbhi2408)
-* [Sakshi Gupta](https://github.com/sakshigupta08)
-* [Ishita Singh](https://github.com/ishita65)
 
 ### Made at:
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
