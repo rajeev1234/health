@@ -14,7 +14,6 @@ chardet==4.0.0
 click==8.0.3
 colorama==0.4.4
 cryptography==3.4.8
-cupshelpers==1.0
 dbus-python==1.2.18
 debugpy==1.6.2
 decorator==5.1.1
@@ -31,7 +30,6 @@ ipykernel==6.15.1
 ipython==8.4.0
 ipython-genutils==0.2.0
 ipywidgets==7.7.1
-keyring==23.5.0
 language-selector==0.1
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
