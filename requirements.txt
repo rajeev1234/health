@@ -24,4 +24,4 @@ python-decouple
 Markdown
 bleach
 psycopg2
-whitenoise
+whitenoise==3.3.0
