@@ -96,6 +96,7 @@ class RegisterDoctorView(CreateView):
 
     def dispatch(self, request, *args, **kwargs):
         if self.request.user.is_authenticated:
+            print("sdf",self.request.user)
             return HttpResponseRedirect(self.get_success_url())
         return super().dispatch(self.request, *args, **kwargs)
 
